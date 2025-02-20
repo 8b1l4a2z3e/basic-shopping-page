@@ -101,7 +101,7 @@ body {
 }
 
 .hero-section {
-  background-image: url(./images/Hero-image.jpg);
+  background-image: url("./images/Hero-image.jpg");
   height: 435px;
   padding: 100px 80px;
   border-radius: 10px;
